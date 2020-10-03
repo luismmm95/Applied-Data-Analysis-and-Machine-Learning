@@ -1,0 +1,20 @@
+##### Testing diffrent activation functions on a 5 hidden node neural network, running a 1000 epochs #####
+#### Results ####
+### Results ReLU ###
+Error: 15.291427206521863
+R2-score: 0.6116473189119231
+### Results LReLU ###
+Error: 14.883322536533463
+R2-score: 0.6220118545837121
+### Results ELU ###
+Error: 32.43921048389393
+R2-score: 0.17614921134191985
+### Results SELU ###
+Error: 15.007351832485408
+R2-score: 0.6188619125301762
+### Results sigmoid ###
+Error: 18.585224568931896
+R2-score: 0.5279955433531835
+### Results tanh ###
+Error: 22.620280982758587
+R2-score: 0.42551819081522724

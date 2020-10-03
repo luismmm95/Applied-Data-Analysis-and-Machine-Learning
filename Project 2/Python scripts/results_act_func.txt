@@ -1,0 +1,33 @@
+###### Testing different activations functions with a neural network of 5 nodes and eta of 0.1, running 10 epochs #####
+#### Results for test data ####
+### Result ReLU ###
+Error: 89.93775909178675
+Accuracy: 99.99076923076923 %
+### Result Leaky ReLU ###
+Error: 108.62175545578698
+Accuracy: 99.98153846153846 %
+### Result ELU ###
+Error: 85.92908544942959
+Accuracy: 99.98461538461538 %
+### Result Sigmoid ###
+Error: 422.846025575346
+Accuracy: 99.99384615384615 %
+### Result Tanh ###
+Error: 242.2689519339266
+Accuracy: 99.98461538461538 %
+#### Results for critical data ####
+### Result ReLU ###
+Error: 10373.148889933133
+Accuracy: 92.91666666666667 %
+### Result Leaky ReLU ###
+Error: 5011.953670419954
+Accuracy: 95.58 %
+### Result ELU ###
+Error: 14598.65709820139
+Accuracy: 91.82666666666667 %
+### Result Sigmoid ###
+Error: 3160.1735745201536
+Accuracy: 96.8 %
+### Result Tanh ###
+Error: 4394.028454995325
+Accuracy: 96.18666666666667 %
