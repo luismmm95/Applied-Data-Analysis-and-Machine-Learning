@@ -1,0 +1,13 @@
+Results for the best model:
+Train Error: 4087
+Train Accuracy: 0.7793
+Test Error: 1996
+Test Accuracy: 0.7293
+Confusion matrix for test:
+[[  96.   34.    6.   30.    2.    8.   15.]
+ [ 134. 1556.   14.  159.    8.   48.   22.]
+ [   0.    0.    0.    0.    0.    0.    0.]
+ [  17.   48.    1.   74.    2.    6.    6.]
+ [   0.    2.    0.    3.   11.    1.    0.]
+ [  20.   15.   14.    8.    6.   69.   23.]
+ [   5.    2.    1.   12.    1.    4.   21.]]
